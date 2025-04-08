@@ -1,5 +1,6 @@
 ---
 title: Would You Persist After 100+ Rejections? From Rejection to Revolution - Melanie Perkins and the Canva Story
+comments: true
 date: 2025-04-05
 ---
 
